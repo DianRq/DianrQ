@@ -5,8 +5,7 @@
 - 💡 I am passionate about connecting technology with conservation, transforming complex data into interactive maps, web applications and analysis tools useful for communities, organizations and impact projects.
 
 Skills: JAVA / PYTHON/ SQL/ PLSQL
-
-- 🔭 I’m currently working on ArcGIS API for JavaScript & Experience Builder Dev Edition 
+n 
 - 🌱 I’m currently learning CSS/HTML/JS 
 - 👯 I’m looking to collaborate on GIS Programming 
 
